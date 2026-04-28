@@ -1,4 +1,4 @@
-# Treemap Hierarchy for NHS Hospital AdmissionsPre- vs. Post-Pandemic Growth Rate Analysis
+# Treemap Hierarchy for NHS Hospital AdmissionsPre- vs. Post-Pandemic Growth Rate Visualization
 
 ## 📊 Project Overview
 **Visual Design Type**: Hierarchical Treemap (Interactive Diverging Treemap)  
