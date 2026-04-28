@@ -6,9 +6,9 @@
 "Focus Cohort": A comparative analysis of two critical periods:
 "Pre-Pandemic Baseline": Average of 2018-2019
 "Pandemic-Impacted Period": Average of 2020-2021
-    
+***
 ## 📉 Variables & Metrics
-"Finished Consultant Episodes (FCE)": Chosen to accurately reflect actual hospital resource utilization.
+'''Finished Consultant Episodes (FCE)''': Chosen to accurately reflect actual hospital resource utilization.
 "Growth Rate (%)": A direct comparison of 2020-21 vs. 2018-19 to highlight admission deviations caused by the pandemic shock.
 ## 🗺️ Visual Mappings
 ### A. Hierarchical Structure
